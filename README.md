@@ -1,6 +1,18 @@
 <h1 align="center">Hi there! I'm Emerson 	
 &#129304;</h1>
 
+<table>
+	<tr>
+		<ul>
+			<li>&#127463;&#127479; I'm a brazilian self taught programing student.</li>
+			<li>I'm not a fluently english speaker, but I can try it!</li>
+			<li>Currently I'm focused in web development like back-end and front-end, but I'm open for experiences in other development areas.</li>
+			<li>Be free to contact me at the end of this readme.</li>
+		</ul>
+	</tr>
+	<tr><img src="./src/computer-animated-gif-29.gif" width="160" align="right"><tr>
+</table>
+
 <h2 align="center">Tools</h2>
 
 <div align="center">
@@ -34,3 +46,10 @@
 </div>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
+
+<div align="center">
+	<h2>Contact me</h2>
+	<a href="https://www.linkedin.com/in/emersonbasiliolopes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="160"></a>
+	<a href="https://discord.gg/gAq2WJXUte">
+	<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="151"></a>
+</div>
