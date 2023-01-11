@@ -1,17 +1,13 @@
 <h1 align="center">Hi there! I'm Emerson 	
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Dark%20Skin%20Tone.png" alt="Sign of the Horns Medium-Dark Skin Tone" width="40" height="40" /></h1>
 
-<table>
-	<tr>
-		<ul>
-			<li>&#127463;&#127479; I'm a brazilian self taught programing student.</li>
-			<li>I'm not a fluently english speaker, but I can try it!</li>
-			<li>Currently I'm focused in web development like back-end and front-end, but I'm open for experiences in other development areas.</li>
-			<li>Be free to contact me at the end of this readme.</li>
-		</ul>
-	</tr>
-	<tr><img src="./src/computer-animated-gif-29.gif" width="160" align="right"><tr>
-</table>
+
+<ul>
+	<li>&#127463;&#127479; I'm a brazilian self taught programing student.</li>
+	<li>I'm not a fluently english speaker, but I can try it!</li>
+	<li>Currently I'm focused in web development like back-end and front-end, but I'm open for experiences in other development areas.</li>
+	<li>Be free to contact me at the end of this readme.</li>
+</ul>
 
 <h2 align="center">Tools</h2>
 
