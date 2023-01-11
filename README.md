@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Emerson 	
-&#129304;</h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Dark%20Skin%20Tone.png" alt="Sign of the Horns Medium-Dark Skin Tone" width="40" height="40" /></h1>
 
 <table>
 	<tr>
